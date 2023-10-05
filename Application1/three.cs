@@ -20,7 +20,7 @@ namespace Application1
             Console.WriteLine($" {firstnumber} * {secondnumber} = {firstnumber * secondnumber}");
             Console.WriteLine($" {firstnumber} / {secondnumber} = {firstnumber /secondnumber}");
             Console.WriteLine($" {firstnumber} mod {secondnumber} = {firstnumber % secondnumber}");
-            Console.WriteLine("dass");
+           
 
             Console.ReadLine();
         }
